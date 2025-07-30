@@ -1,0 +1,4 @@
+name: CleanupEntity
+version: '1.0-SNAPSHOT'
+main: org.yuanyuan.cleanupEntity.cleanupEntity
+api-version: '1.21'
